@@ -17,6 +17,7 @@ The system demonstrates relational database design and practical implementation 
 * Departments
 * Appointments
 * Billing
+
 The tables are connected using Primary Keys and Foreign Keys to maintain data integrity.
 
 ## SQL Concepts Used
